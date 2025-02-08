@@ -169,3 +169,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+secrets.py
+.vscode
+.micropico
+mqtt_local.py
+# per-device files
+config-*.py
+device-*.py
+/RCS
